@@ -24,7 +24,7 @@ Replace `mongoport` accordingly, most likely default port of `27017`
 
 Replace `http://localhost` with your app url
 
-Alternatively you can set it up via [cloud.docker](https://cloud.docker.com/, "cloud.docker.com") once you have pushed the image in one of your repositories
+Alternatively you can set it up via [cloud.docker](https://cloud.docker.com/ "cloud.docker.com") once you have pushed the image in one of your repositories
 
 ## Parameters
 
